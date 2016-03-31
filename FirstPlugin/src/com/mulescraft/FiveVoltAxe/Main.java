@@ -7,6 +7,7 @@ public class Main extends JavaPlugin{
 	@Override
 	public void onEnable(){
 		//Hey Babe
+		//Sup Dude.
 	}
 	
 	@Override
